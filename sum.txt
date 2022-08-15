@@ -1,0 +1,17 @@
+
+•AI is the broader concept  machines making decisions, learning new skills, and solving problems in a similar way to humans  whereas machine learning is a subset of AI that enables intelligent systems to autonomously learn new things from data.
+•This method is mostly used for exploratory analysis and can help you detect hidden patterns or trends.
+•To train image recognition, for example, you would tag photos of dogs, cats, horses, etc., with the appropriate animal name.
+•In this case, tell your sentiment analysis model whether each comment or piece of data isPositive, Neutral,orNegative.
+•\n \n There are many different applications of machine learning, which can benefit your business in countless ways.
+•\n \n Virtual assistants, like Siri, Alexa, Google Now, all make use of machine learning to automatically process and answer voice requests.
+•\n \n is a machine learning technique that can be used to analyze purchasing habits at the supermarket or on e-commerce sites.
+•It works by searching for relationships between variables and finding common associations in transactions (products that consumers usually buy together).
+•\n \n Machine learning algorithms can be trained to identify trading opportunities, by recognizing patterns and behaviors in historical data.
+•Humans are often driven by emotions when it comes to making investments, socan play a huge role in identifying good and bad investing opportunities, with no human bias, whatsoever.
+•\n \n Machine learning is driving innovation in many fields, and every day were seeing new interesting use cases emerge.
+•Based on this data, machines define a set of rules that they apply to all datasets, helping them provide consistent and accurate results.
+•\n \n Taiwan and China have been governed separately since themore than seven decades ago, in which the defeated Nationalists fled to Taipei.
+•\n \n Dozens of Chinese warplanes crossed the median line between Thursday and Sunday, according to accounts from Taiwan\'s Defense Ministry.
+•\n \n That had implications beyond Taiwan as China seeks to expand its influence across the Western Pacific, Wu said.
+•And in the eastern areas, China\'s forces showed that accurate Chinese missile fire could force foreign warships to back away from Taiwan\'s waters, he added.

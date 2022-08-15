@@ -52,7 +52,27 @@ def short_count_sentences(document, percent_output):
             if (t1 != ''):
                 texs5.append(t1)
     x = len(texs5)
-    return x * percent_output
+    return round(x * percent_output)
 
 
+def sortByDocToArr(para, sens):
+    paras = para.split("||||")[:-1]
+    result = [[] for i in range(len(paras))]
+    for sen in sens:
+        for idx, para in enumerate(paras):
+            if (sen in para):
+                result[idx].append(sen)
+                break
+    return result
+
+def sortByDocToStr(para, sens):
+    result = ""
+    docs = sortByDocToArr(para, sens)
+    for d in docs:
+        for s in d:
+            result += "\n\u2022\r"
+            result += s
+        result += "\n"
+    return result
+        
 
